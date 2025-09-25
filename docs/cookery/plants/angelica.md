@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Angelica](placeholder-angelica.jpg)
+![Picture: Angelica](images/placeholder-angelica.jpg)
 
 ---
 

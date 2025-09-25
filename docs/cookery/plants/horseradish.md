@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Horseradish](placeholder-horseradish.jpg)
+![Picture: Horseradish](images/placeholder-horseradish.jpg)
 
 ---
 

@@ -22,7 +22,7 @@ Rich in starch, fiber, and minerals.
 - Grows in moist soil, often cultivated historically.  
 - Roots harvested in autumn/winter.  
 
-![Picture: Skirret roots](placeholder-skirret.jpg)
+![Picture: Skirret roots](images/placeholder-skirret.jpg)
 
 ---
 

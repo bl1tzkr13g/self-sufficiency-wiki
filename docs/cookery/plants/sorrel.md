@@ -23,7 +23,7 @@ Rich in vitamin C, iron, and potassium.
 - Arrow-shaped leaves with a sour taste.  
 - Harvest young leaves in spring and summer.  
 
-![Picture: Sorrel plant](placeholder-sorrel.jpg)
+![Picture: Sorrel plant](images/placeholder-sorrel.jpg)
 
 ---
 

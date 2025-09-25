@@ -33,7 +33,7 @@ Suet is the **hard, raw fat** from beef or mutton, specifically from around the 
 
 When rendered (melted and strained), suet becomes **tallow**, a shelf-stable fat used in both cooking and non-food survival applications.  
 
-![Picture: Raw suet around kidneys](placeholder-suet-raw.jpg)
+![Picture: Raw suet around kidneys](images/placeholder-suet-raw.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ When rendered (melted and strained), suet becomes **tallow**, a shelf-stable fat
 3. **Preservation:** Rendered suet (tallow) sealed in crocks or jars; melted suet sometimes used to seal jars of food.  
 4. **Uses:** Potted meats, portable soup, pemmican, puddings; plus candles, lamp oil, soap.  
 
-![Picture: Chopped suet](placeholder-suet-chopped.jpg)
+![Picture: Chopped suet](images/placeholder-suet-chopped.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ When rendered (melted and strained), suet becomes **tallow**, a shelf-stable fat
 3. **Render:** Very low heat in pot/slow cooker; strain; cool.  
 4. **Storage:** Raw suet freezes well; rendered tallow stores for months.  
 
-![Picture: Rendered tallow jar](placeholder-suet-rendered.jpg)
+![Picture: Rendered tallow jar](images/placeholder-suet-rendered.jpg)
 
 ---
 

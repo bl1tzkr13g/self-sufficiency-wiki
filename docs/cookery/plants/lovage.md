@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Lovage](placeholder-lovage.jpg)
+![Picture: Lovage](images/placeholder-lovage.jpg)
 
 ---
 

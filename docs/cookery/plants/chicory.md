@@ -23,7 +23,7 @@ Contains inulin (prebiotic fiber), vitamins A, C, and K.
 - Common along roadsides, fields, and waste areas.  
 - Harvest roots in autumn, leaves in spring.  
 
-![Picture: Chicory plant](placeholder-chicory.jpg)
+![Picture: Chicory plant](images/placeholder-chicory.jpg)
 
 ---
 

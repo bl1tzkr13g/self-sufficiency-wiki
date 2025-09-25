@@ -29,7 +29,7 @@ Rendered pig fat. Soft, white, and spreadable at room temperature.
 
 Lard is the rendered fat from pigs. Softer than tallow with a lower melting point. **Leaf lard** from around the kidneys is prized for neutral pastry flavor.  
 
-![Picture: Bowl of lard](placeholder-lard.jpg)
+![Picture: Bowl of lard](images/placeholder-lard.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ Lard is the rendered fat from pigs. Softer than tallow with a lower melting poin
 
 - Cube and render in heavy pan or slow cooker; strain into clean jars; refrigerate or freeze.  
 
-![Picture: Rendering lard](placeholder-lard-render.jpg)
+![Picture: Rendering lard](images/placeholder-lard-render.jpg)
 
 ---
 

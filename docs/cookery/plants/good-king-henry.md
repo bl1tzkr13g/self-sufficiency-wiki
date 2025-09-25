@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Good King Henry](placeholder-good-king-henry.jpg)
+![Picture: Good King Henry](images/placeholder-good-king-henry.jpg)
 
 ---
 

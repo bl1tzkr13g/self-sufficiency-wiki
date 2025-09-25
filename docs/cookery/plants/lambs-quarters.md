@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Lamb’s Quarters](placeholder-lambs-quarters.jpg)
+![Picture: Lamb’s Quarters](images/placeholder-lambs-quarters.jpg)
 
 ---
 

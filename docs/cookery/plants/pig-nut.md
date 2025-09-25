@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Pig Nut](placeholder-pig-nut.jpg)
+![Picture: Pig Nut](images/placeholder-pig-nut.jpg)
 
 ---
 

@@ -30,7 +30,7 @@ Rendered and purified suet (beef or mutton fat). Shelf-stable, firm at room temp
 
 Tallow is **rendered beef or mutton fat**, usually made from **suet** (the hard fat around kidneys). Once melted down and strained, it becomes a shelf-stable, waxy fat central to cooking, lighting, and survival.  
 
-![Picture: Jar of cooled tallow](placeholder-tallow-jar.jpg)
+![Picture: Jar of cooled tallow](images/placeholder-tallow-jar.jpg)
 
 ---
 
@@ -46,7 +46,7 @@ Tallow is **rendered beef or mutton fat**, usually made from **suet** (the hard 
 - Cut into cubes; render in slow cooker/oven/heavy pot on very low heat; strain.  
 - Store sealed at room temp (months) or refrigerate/freeze longer.  
 
-![Picture: Rendering process](placeholder-tallow-rendering.jpg)
+![Picture: Rendering process](images/placeholder-tallow-rendering.jpg)
 
 ---
 

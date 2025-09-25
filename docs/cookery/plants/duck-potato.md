@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Duck Potato](placeholder-duck-potato.jpg)
+![Picture: Duck Potato](images/placeholder-duck-potato.jpg)
 
 ---
 

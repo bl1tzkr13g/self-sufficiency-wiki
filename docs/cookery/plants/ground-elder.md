@@ -22,7 +22,7 @@ Rich in vitamin C and minerals.
 - Resembles elder leaves (hence the name).  
 - Harvest young leaves in spring before flowering.  
 
-![Picture: Ground Elder](placeholder-ground-elder.jpg)
+![Picture: Ground Elder](images/placeholder-ground-elder.jpg)
 
 ---
 

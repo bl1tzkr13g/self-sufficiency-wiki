@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Sweet Sicily](placeholder-sweet-sicily.jpg)
+![Picture: Sweet Sicily](images/placeholder-sweet-sicily.jpg)
 
 ---
 

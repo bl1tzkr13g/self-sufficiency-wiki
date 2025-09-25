@@ -28,7 +28,7 @@ Rendered fat and juices left after roasting meat, especially beef or pork.
 
 Dripping is the fat and juices rendered during roasting. Once cooled, the fat solidifies and can be skimmed for reuse.  
 
-![Picture: Jar of beef dripping](placeholder-dripping.jpg)
+![Picture: Jar of beef dripping](images/placeholder-dripping.jpg)
 
 ---
 

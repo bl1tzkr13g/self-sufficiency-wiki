@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Goldenrod](placeholder-goldenrod.jpg)
+![Picture: Goldenrod](images/placeholder-goldenrod.jpg)
 
 ---
 

@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Wild Celery](placeholder-wild-celery.jpg)
+![Picture: Wild Celery](images/placeholder-wild-celery.jpg)
 
 ---
 

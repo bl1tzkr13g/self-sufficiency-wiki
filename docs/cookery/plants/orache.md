@@ -19,7 +19,7 @@ Vitamins, minerals, and beneficial compounds depending on species.
 
 - Habitat, leaf/flower characteristics, and harvest season.  
 
-![Picture: Orache](placeholder-orache.jpg)
+![Picture: Orache](images/placeholder-orache.jpg)
 
 ---
 
