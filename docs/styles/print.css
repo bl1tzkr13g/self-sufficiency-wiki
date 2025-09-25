@@ -1,0 +1,24 @@
+/* Make pages look excellent when printed or saved as PDF.
+ * Designed for US Letter (8.5 x 11in). */
+@page {
+  size: Letter;
+  margin: 0.6in;
+}
+@media print {
+  /* Hide site chrome; show only article content */
+  .md-header, .md-sidebar, .md-footer, nav, .md-search, .md-tabs { display: none !important; }
+  .md-main, .md-content { margin: 0 !important; padding: 0 !important; box-shadow: none !important; }
+  .md-content__inner { max-width: 100% !important; }
+  /* Avoid breaking headings at bottom of a page */
+  h1, h2, h3, h4, h5, h6 { break-after: avoid-page; page-break-after: avoid; }
+  /* Keep tables and images intact when possible */
+  table, img, pre, blockquote { break-inside: avoid; page-break-inside: avoid; }
+  /* Optional: show link URLs after text for external links */
+  a[href^="http"]:after {
+    content: " (" attr(href) ")";
+    font-size: 90%;
+  }
+}
+/* Helpers the author can add to any element: */
+.page-break { break-before: page; page-break-before: always; }
+.avoid-break { break-inside: avoid; page-break-inside: avoid; }

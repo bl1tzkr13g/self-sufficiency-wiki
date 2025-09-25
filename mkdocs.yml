@@ -1,0 +1,48 @@
+site_name: Survival Wiki
+site_description: Practical, printable survival knowledge with clean cross-links.
+site_url: https://example.org
+repo_url: https://github.com/yourname/survival-wiki
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.instant
+    - toc.integrate
+    - content.code.copy
+    - content.tabs.link
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: teal
+      accent: lime
+plugins:
+  - search
+  - awesome-pages
+  - roamlinks:
+      wikilinks: true
+  - glightbox
+  - mermaid2
+  - print-site:
+      add_to_navigation: true
+      print_page_title: "Print whole site"
+      print_site_dir: print
+extra_css:
+  - styles/print.css
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Knowledge:
+      - Ingredients:
+          - Alcohol: ingredients/alcohol.md
+      - Preparations:
+          - Tinctures: recipes/tinctures.md
+      - Plants:
+          - Skirret: plants/skirret.md

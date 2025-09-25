@@ -1,0 +1,6 @@
+mkdocs-material
+mkdocs-glightbox
+mkdocs-roamlinks-plugin
+mkdocs-awesome-pages-plugin
+mkdocs-mermaid2
+mkdocs-print-site-plugin
