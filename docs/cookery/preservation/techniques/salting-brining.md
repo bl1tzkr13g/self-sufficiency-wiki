@@ -22,46 +22,13 @@ Preservation using salt to draw out moisture or brine solution to inhibit spoila
 
 ---
 
-## What is Salting & Brining?  
-
-Salting removes water and creates an environment hostile to bacteria. Brining adds both salt and sometimes sugar or spices dissolved in water.  
-
-![Picture: Salted fish](placeholder-salting.jpg)
-
----
-
-## Historical Preparation  
-
-- Salt-packed barrels of fish or meat.  
-- Brining large cuts in casks.  
-- Essential for naval voyages.  
-
----
-
-## Modern Preparation  
-
-- Dry curing with salt and spices.  
-- Wet brining for poultry and pork.  
-- Used before smoking or drying.  
-
-![Picture: Modern brining process](placeholder-brining.jpg)
-
----
-
-## Uses Today  
-
-- Ham, bacon, salt cod.  
-- Poultry brined for tenderness.  
-- Step in making preserved foods like corned beef.  
-
----
-
 ## Cross References  
 
 - [Smoking](smoking.md)  
 - [Drying & Dehydrating](drying-dehydrating.md)  
 - [Pickling & Fermentation](pickling-fermentation.md)  
-- [Food Preservation](food-preservation.md)  
+- [Preservation Index](../../../preservation.md)  
+- [Cookery Index](../../../cookery.md)  
 
 ---
 

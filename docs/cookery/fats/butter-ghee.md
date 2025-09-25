@@ -4,11 +4,8 @@
 
 ## 📜 Butter & Ghee Quick Reference (Printable Card)
 
-**Butter:**  
-Churned cream, soft dairy fat. Spoils quickly unless chilled.  
-
-**Ghee (Clarified Butter):**  
-Butter melted and simmered to remove water and milk solids, leaving pure fat. Shelf-stable.  
+**Butter:** Churned cream, soft dairy fat. Spoils quickly unless chilled.  
+**Ghee (Clarified Butter):** Butter melted and simmered to remove water and milk solids, leaving pure fat. Shelf-stable.  
 
 **How to Make Ghee:**  
 1. Melt butter on low heat.  
@@ -26,48 +23,12 @@ Butter melted and simmered to remove water and milk solids, leaving pure fat. Sh
 
 ---
 
-## What is Butter?  
-
-Butter is made by churning cream until fat separates from buttermilk. Soft and flavorful, it has been a prized dairy product for centuries, though it spoils quickly without refrigeration.  
-
-![Picture: Fresh butter](placeholder-butter.jpg)
-
----
-
-## What is Ghee?  
-
-Ghee is clarified butter—pure butterfat with the water and milk solids removed. This makes it highly stable and suitable for storage at room temperature for months. It is central to Indian cuisine and has ancient medicinal uses.  
-
-![Picture: Jar of ghee](placeholder-ghee.jpg)
-
----
-
-## Historical Preparation  
-
-- **Butter:** Made by hand churning cream. Stored in cool cellars, brined, or packed in crocks.  
-- **Ghee:** Simmered butter until clarified, filtered, and sealed in jars. Used in hot climates for preservation.  
-
----
-
-## Modern Preparation  
-
-- **Butter:** Made in churns or mixers. Best stored chilled or frozen.  
-- **Ghee:** Melt butter on low heat until solids separate. Strain and store in airtight jars.  
-
----
-
-## Uses Today  
-
-- **Butter:** Baking, spreads, sauces.  
-- **Ghee:** High-heat cooking, long-term storage, survival ration, traditional medicine.  
-
----
-
 ## Cross References  
 
-- [Food Preservation](food-preservation.md)  
+- [Preservation Index](../../preservation.md)  
 - [Lard](lard.md)  
 - [Tallow](tallow.md)  
+- [Cookery Index](../../cookery.md)  
 
 ---
 

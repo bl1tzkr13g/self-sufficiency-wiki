@@ -39,84 +39,42 @@ When rendered (melted and strained), suet becomes **tallow**, a shelf-stable fat
 
 ## Historical Preparation  
 
-1. **Harvesting:**  
-   Traditionally, butchers reserved the fat from cattle or sheep kidneys. This was valued more highly than general fat scraps.  
+1. **Harvesting:** Traditionally, butchers reserved the fat from cattle or sheep kidneys.  
+2. **Processing:** Finely chopped or shredded; often rendered immediately.  
+3. **Preservation:** Rendered suet (tallow) sealed in crocks or jars; melted suet sometimes used to seal jars of food.  
+4. **Uses:** Potted meats, portable soup, pemmican, puddings; plus candles, lamp oil, soap.  
 
-2. **Processing:**  
-   - Suet was chopped finely or shredded by hand.  
-   - To prevent spoilage, it was often **rendered immediately**, turning into tallow.  
-   - Unrendered suet could be stored short-term in cool weather or salted to extend life.  
-
-3. **Preservation:**  
-   - Rendered suet (tallow) could be sealed in crocks or jars with additional suet poured over to exclude air.  
-   - Some methods sealed jars with **melted suet instead of wax** to preserve food inside.  
-
-4. **Historical Uses:**  
-   - **Food:**  
-     - Potted meats (layered and sealed with suet).  
-     - Portable soup (a dried, concentrated broth).  
-     - Pemmican (Native American/Canadian mix of dried meat, fat, and berries).  
-     - Suet puddings and dumplings.  
-   - **Non-Food:**  
-     - Candles, lamp oil, soap, leather treatment.  
-
-![Picture: Chopped suet in bowl](placeholder-suet-chopped.jpg)
+![Picture: Chopped suet](placeholder-suet-chopped.jpg)
 
 ---
 
 ## Modern Preparation  
 
-1. **Trimming:**  
-   - Obtain beef suet (from butcher or specialty shops).  
-   - Remove membranes and connective tissue.  
+1. **Trimming:** Obtain beef suet; remove membranes/connective tissue.  
+2. **Chop/Grate:** Small pieces or freeze & grate for pastry.  
+3. **Render:** Very low heat in pot/slow cooker; strain; cool.  
+4. **Storage:** Raw suet freezes well; rendered tallow stores for months.  
 
-2. **Chopping or Grating:**  
-   - Cut into small pieces or shred.  
-   - For pastry, fresh suet is sometimes frozen and grated directly into dough.  
-
-3. **Rendering into Tallow:**  
-   - Place in a heavy pot or slow cooker on **very low heat**.  
-   - Slowly melt, stirring occasionally.  
-   - Strain liquid fat through cheesecloth.  
-   - Pour into jars or molds to cool.  
-
-4. **Storage:**  
-   - Raw suet spoils quickly—best frozen if not used immediately.  
-   - Rendered tallow keeps for months in sealed containers at room temp, longer if refrigerated.  
-
-![Picture: Rendered tallow in jar](placeholder-suet-rendered.jpg)
+![Picture: Rendered tallow jar](placeholder-suet-rendered.jpg)
 
 ---
 
 ## Uses Today  
 
-- **Cooking & Baking:**  
-  - Suet crust pastries (traditional British savory pies).  
-  - Christmas pudding, spotted dick, and steamed puddings.  
-  - Enriches dough with a distinctive lightness.  
-
-- **Survival & Homesteading:**  
-  - Ingredient in homemade pemmican.  
-  - Base for fat-based emergency rations.  
-  - Traditional preservation (sealing foods).  
-
-- **Wildlife & Outdoors:**  
-  - Bird suet cakes (mixed with seeds, berries, nuts).  
-  - Fire starter when mixed with dry material.  
-
-- **Other Uses:**  
-  - Homemade soap.  
-  - Candle making.  
-  - Leather waterproofing.  
+- **Cooking:** Suet crust pies, steamed puddings.  
+- **Survival:** Pemmican ingredient; sealing preserved foods.  
+- **Outdoors:** Bird suet cakes, fire starter.  
+- **Other:** Soap, candles, leather waterproofing.  
 
 ---
 
 ## Cross References  
 - [Tallow](tallow.md)  
-- [Potted Beef](potted-beef.md)  
-- [Pemmican](pemmican.md)  
-- [Portable Soup](portable-soup.md)  
-- [Food Preservation](food-preservation.md)  
+- [Potted Beef](../preservation/foods/potted-beef.md)  
+- [Pemmican](../preservation/foods/pemmican.md)  
+- [Portable Soup](../preservation/foods/portable-soup.md)  
+- [Preservation Index](../../preservation.md)  
+- [Cookery Index](../../cookery.md)  
 
 ---
 

@@ -26,36 +26,15 @@ Rendered fat and juices left after roasting meat, especially beef or pork.
 
 ## What is Dripping?  
 
-Dripping is the fat and juices rendered during the roasting of meat. Once cooled, the fat solidifies and can be skimmed off for reuse. It was a staple cooking fat in many households, especially in Britain, where "bread and dripping" was once a common meal.  
+Dripping is the fat and juices rendered during roasting. Once cooled, the fat solidifies and can be skimmed for reuse.  
 
 ![Picture: Jar of beef dripping](placeholder-dripping.jpg)
 
 ---
 
-## Historical Preparation  
-
-- Collected from roasting pans.  
-- Stored in jars or crocks.  
-- Sometimes clarified by reheating and straining.  
-- Used widely before vegetable oils became common.  
-
----
-
-## Modern Preparation  
-
-- After roasting meat, pour pan drippings into a bowl.  
-- Chill until fat rises and solidifies.  
-- Skim and store.  
-
-![Picture: Separated dripping layers](placeholder-dripping-separation.jpg)
-
----
-
 ## Uses Today  
 
-- Frying potatoes and meats.  
-- Flavor for gravies and sauces.  
-- Traditional nostalgic foods.  
+- Frying potatoes/meats, gravies and sauces, nostalgic foods.  
 
 ---
 
@@ -63,7 +42,8 @@ Dripping is the fat and juices rendered during the roasting of meat. Once cooled
 
 - [Tallow](tallow.md)  
 - [Lard](lard.md)  
-- [Food Preservation](food-preservation.md)  
+- [Preservation Index](../../preservation.md)  
+- [Cookery Index](../../cookery.md)  
 
 ---
 

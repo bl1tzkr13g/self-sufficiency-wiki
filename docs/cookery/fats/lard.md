@@ -27,7 +27,7 @@ Rendered pig fat. Soft, white, and spreadable at room temperature.
 
 ## What is Lard?  
 
-Lard is the rendered fat from pigs. It is softer and more spreadable than tallow, with a lower melting point, and has been a staple cooking fat for centuries. **Leaf lard**, the fat from around the pig’s kidneys, is prized for its neutral flavor in pastries.  
+Lard is the rendered fat from pigs. Softer than tallow with a lower melting point. **Leaf lard** from around the kidneys is prized for neutral pastry flavor.  
 
 ![Picture: Bowl of lard](placeholder-lard.jpg)
 
@@ -35,19 +35,14 @@ Lard is the rendered fat from pigs. It is softer and more spreadable than tallow
 
 ## Historical Preparation  
 
-1. **Sources of Fat:** Belly, back, and kidney fat.  
-2. **Rendering:** Chopped, melted over low heat, strained.  
-3. **Storage:** Stored in crocks, jars, or sealed with a fat cap.  
-4. **Uses:** Frying, baking, greasing pans, preserving meats (confit).  
+- Sources: belly, back, and kidney fat.  
+- Rendered low and slow; strained and stored in crocks/jars.  
 
 ---
 
 ## Modern Preparation  
 
-- Obtain pork fat from a butcher.  
-- Cube and render slowly in a heavy pan or slow cooker.  
-- Strain into clean jars.  
-- Store in fridge or freezer for long life.  
+- Cube and render in heavy pan or slow cooker; strain into clean jars; refrigerate or freeze.  
 
 ![Picture: Rendering lard](placeholder-lard-render.jpg)
 
@@ -56,8 +51,8 @@ Lard is the rendered fat from pigs. It is softer and more spreadable than tallow
 ## Uses Today  
 
 - **Cooking:** Pie crusts, tortillas, biscuits, frying.  
-- **Survival:** Energy-dense ration fat, meat preservation.  
-- **Non-Food:** Soap making, candles (less common today).  
+- **Survival:** Energy-dense fat, confit preservation.  
+- **Non-Food:** Traditional soap making.  
 
 ---
 
@@ -65,7 +60,8 @@ Lard is the rendered fat from pigs. It is softer and more spreadable than tallow
 
 - [Tallow](tallow.md)  
 - [Suet](suet.md)  
-- [Food Preservation](food-preservation.md)  
+- [Preservation Index](../../preservation.md)  
+- [Cookery Index](../../cookery.md)  
 
 ---
 
