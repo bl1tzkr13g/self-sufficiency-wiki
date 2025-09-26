@@ -25,7 +25,7 @@
 
 ## Cross References  
 
-- [Preservation Index](../../preservation.md)  
+- [Preservation Index](preservation.md)  
 - [Lard](lard.md)  
 - [Tallow](tallow.md)  
 - [Cookery Index](../../cookery.md)  

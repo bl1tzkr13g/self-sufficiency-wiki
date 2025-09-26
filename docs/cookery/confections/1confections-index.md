@@ -1,0 +1,2 @@
+# Confections Index
+- [[barley-sugar]]

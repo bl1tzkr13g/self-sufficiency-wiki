@@ -6,24 +6,28 @@ The **Cookery section** covers historical and modern methods of preparing, prese
 It includes recipes, survival rations, preservation techniques, traditional dishes, and foraged plants.  
 
 ---
+## 🔹 [Foods Index](1foods-index.md)  
 
-## 🔹 Fats & Oils  
-- [Suet](cookery/fats/suet.md)  
-- [Tallow](cookery/fats/tallow.md)  
-- [Lard](cookery/fats/lard.md)  
-- [Dripping](cookery/fats/dripping.md)  
-- [Butter & Ghee](cookery/fats/butter-ghee.md)  
+---
+## 🔹 [Preserved Foods Index](1preserved-foods-index.md)  
+
+---
+## 🔹[Confections Index](1confections-index.md)
+
+---
+## 🔹 [Drinks Index](1drinks-index.md)
+
+---
+## 🔹 [Fats & Oils Index](1fats-index)
 
 ---
 
-## 🔹 Preservation  
-- [Preservation Index](preservation.md)  
+## 🔹 [Preservation Index](preservation.md)  
 
 ---
 
-## 🔹 Foraged & Wild Plants  
-- [Foraged & Wild Plants Index](plants-index.md)  
+## 🔹 [Foraged & Wild Plants Index](plants-index.md)  
 
 ---
 
-*This page serves as an index for the Cookery section of the Survival Wiki.*
+*This page serves as an index for the Cookery section of the Self-Sufficiency Wiki.*

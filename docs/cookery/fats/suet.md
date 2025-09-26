@@ -71,9 +71,9 @@ When rendered (melted and strained), suet becomes **tallow**, a shelf-stable fat
 ## Cross References  
 - [Tallow](tallow.md)  
 - [Potted Beef](../preservation/foods/potted-beef.md)  
-- [Pemmican](../preservation/foods/pemmican.md)  
-- [Portable Soup](../preservation/foods/portable-soup.md)  
-- [Preservation Index](../../preservation.md)  
+- [Pemmican](pemmican.md)  
+- [Portable Soup](portable-soup.md)  
+- [Preservation Index](preservation.md)  
 - [Cookery Index](../../cookery.md)  
 
 ---

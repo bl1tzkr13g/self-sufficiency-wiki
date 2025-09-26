@@ -44,7 +44,7 @@ Lard is the rendered fat from pigs. Softer than tallow with a lower melting poin
 
 - Cube and render in heavy pan or slow cooker; strain into clean jars; refrigerate or freeze.  
 
-![Picture: Rendering lard](images/placeholder-lard-render.jpg)
+<img src="images/placeholder-lard-render.jpg" width="500" text-align: center style="display: block; margin: auto; "/>
 
 ---
 
@@ -60,7 +60,7 @@ Lard is the rendered fat from pigs. Softer than tallow with a lower melting poin
 
 - [Tallow](tallow.md)  
 - [Suet](suet.md)  
-- [Preservation Index](../../preservation.md)  
+- [Preservation Index](preservation.md)  
 - [Cookery Index](../../cookery.md)  
 
 ---

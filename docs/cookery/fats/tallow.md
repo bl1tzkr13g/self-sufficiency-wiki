@@ -62,9 +62,9 @@ Tallow is **rendered beef or mutton fat**, usually made from **suet** (the hard 
 
 - [Suet](suet.md)  
 - [Potted Beef](../preservation/foods/potted-beef.md)  
-- [Pemmican](../preservation/foods/pemmican.md)  
-- [Portable Soup](../preservation/foods/portable-soup.md)  
-- [Preservation Index](../../preservation.md)  
+- [Pemmican](pemmican.md)  
+- [Portable Soup](portable-soup.md)  
+- [Preservation Index](preservation.md)  
 - [Cookery Index](../../cookery.md)  
 
 ---

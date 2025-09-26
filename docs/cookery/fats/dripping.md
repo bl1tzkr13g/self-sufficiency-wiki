@@ -42,7 +42,7 @@ Dripping is the fat and juices rendered during roasting. Once cooled, the fat so
 
 - [Tallow](tallow.md)  
 - [Lard](lard.md)  
-- [Preservation Index](../../preservation.md)  
+- [Preservation Index](preservation.md)  
 - [Cookery Index](../../cookery.md)  
 
 ---
