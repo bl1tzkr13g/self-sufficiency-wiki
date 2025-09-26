@@ -13,6 +13,7 @@ It includes both preserved staple foods and the techniques used to make them.
 - [Portable Soup](cookery/preservation/foods/portable-soup.md)  
 - [Hardtack](cookery/preservation/foods/hardtack.md)  
 - [Suet Pudding](cookery/preservation/foods/suet-pudding.md)  
+- [Spotted Dick](cookery/preservation/foods/spotted-dick.md)  
 
 ---
 
