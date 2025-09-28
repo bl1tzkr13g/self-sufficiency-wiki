@@ -7,21 +7,21 @@ It also links to prepared dishes made from these plants.
 
 ---
 ## 🔹 Plant Entries  
-- [Sorrel](sorrel%201.md)  
-- [Chicory](chicory%201.md)  
-- [Skirret](skirret%201.md)  
-- [Ground Elder](ground-elder%201.md)  
-- [Angelica](angelica%201.md)  
-- [Orache](orache%201.md)  
-- [Lamb’s Quarters](lambs-quarters%201.md)  
-- [Good King Henry](good-king-henry%201.md)  
-- [Pig Nut](pig-nut%201.md)  
-- [Lovage](lovage%201.md)  
-- [Wild Celery](wild-celery%201.md)  
-- [Horseradish](horseradish%201.md)  
-- [Sweet Sicily](sweet-sicily%201.md)  
-- [Duck Potato (Arrowhead)](duck-potato%201.md)  
-- [Goldenrod](goldenrod%201.md)  
+- [Sorrel](sorrel.md)  
+- [Chicory](chicory.md)  
+- [Skirret](skirret.md)  
+- [Ground Elder](ground-elder.md)  
+- [Angelica](angelica.md)
+- [Orache](orache.md)  
+- [Lamb’s Quarters](lambs-quarters.md)
+- [Good King Henry](good-king-henry.md)  
+- [Pig Nut](pig-nut.md) 
+- [Lovage](lovage.md)  
+- [Wild Celery](wild-celery.md)  
+- [Horseradish](horseradish.md)  
+- [Sweet Sicily](sweet-sicily.md) 
+- [Duck Potato (Arrowhead)](duck-potato.md)  
+- [Goldenrod](goldenrod.md)  
 
 ---
 
