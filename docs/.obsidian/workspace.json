@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plants-foraging.md",
+                "file": "trees/moringa-tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plants-foraging"
+              "title": "moringa-tree"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plants-foraging.md",
+                "file": "trees/moringa-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for plants-foraging"
+              "title": "Backlinks for moringa-tree"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plants-foraging.md",
+                "file": "trees/moringa-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from plants-foraging"
+              "title": "Outgoing links from moringa-tree"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plants-foraging.md",
+                "file": "trees/moringa-tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of plants-foraging"
+              "title": "Outline of moringa-tree"
             }
           }
         ]
@@ -171,40 +171,44 @@
   },
   "active": "2fc8f97eb10d9b01",
   "lastOpenFiles": [
-    "plants-and-foraging/goldenrod.md",
+    "trees/black-spruce-tree.md",
+    "trees/mesquite-tree.md",
+    "trees/moringa-tree.md",
+    "plants-and-foraging/barley.md",
+    "trees/images",
+    "trees",
     "plants-foraging.md",
+    "animal-husbandry/squab-towers.md",
+    "cookery/preservation-techniques/zeer-pot.md",
+    "animal-husbandry/images",
+    "animal-husbandry",
+    "cookery/preservation-techniques/root-cellar.md",
+    "cookery/ingredient/1ingredients-index.md",
+    "cookery.md",
+    "cookery/confections/1confections-index.md",
+    "cookery/drinks/1drinks-index.md",
+    "cookery/fats/1fats-index.md",
+    "plants-and-foraging/goldenrod.md",
     "plants-and-foraging/sorrel.md",
     "README.md",
     "plants-and-foraging/stinging-nettle-soup.md",
     "cookery/foods/1foods-index.md",
-    "cookery.md",
     "cookery/utensil/1utensil-index.md",
     "cookery/foods/preserved-foods/1preserved-foods-index.md",
-    "cookery/ingredient/1ingredients-index.md",
     "cookery/ingredient/flours.md",
     "cookery/drinks/molasses-beer.md",
     "cookery/drinks/table-beer.md",
     "cookery/drinks/small-beer.md",
     "cookery/drinks/beer.md",
     "cookery/drinks/spruce-beer.md",
-    "index.md",
-    "cookery/ingredient/mesquite-flour.md",
-    "cookery/ingredient/vinegar.md",
-    "tinctures/ingredients/alcohol.md",
     "cookery/ingredient/images/green-mesquite-pods-1.jpeg",
     "cookery/ingredient/images/mesquite_honey150.jpg",
     "cookery/ingredient/images/drymesquite.jpeg",
     "cookery/ingredient/images/placeholder-mesquite-flour.jpg",
-    "cookery/ingredient/zucchini-flour.md",
-    "cookery/foods/spotted-dick.md",
-    "cookery/fats/suet.md",
-    "cookery/utensil/pudding-cloth.md",
     "cookery/utensil/images/2-pudding-cloth.jpg",
     "cookery/utensil/images/placeholder-pudding-cloth.jpg",
     "cookery/utensil/images/1-pudding-cloth.jpg",
     "cookery/utensil/images/placeholder-pudding-cloth.jpg.~tmp",
-    "cookery/ingredient/salt.md",
-    "cookery/foods/preserved-foods/salted-pork.md",
     "cookery/ingredient/images",
     "cookery/ingredient",
     "cookery/utensil/images",
@@ -213,10 +217,6 @@
     "cookery/foods/images/spotteddickpot.jpg",
     "cookery/foods/images/spotteddick1.jpg",
     "cookery/fats/images/~laceholder-dripping.tmp",
-    "cookery/foods/preserved-foods/images",
-    "medicine/images",
-    "medicine",
-    "tools/images",
     "cookery/foods/preserved foods/Untitled.canvas"
   ]
 }
