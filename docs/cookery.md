@@ -15,6 +15,9 @@ It includes recipes, survival rations, preservation techniques, traditional dish
 ## 🔹 [Utensil's Index](1utensil-index.md)  
 
 ---
+## 🔹 [Ingredients Index](1ingredients-index.md)  
+
+---
 ## 🔹[Confections Index](1confections-index.md)
 
 ---
