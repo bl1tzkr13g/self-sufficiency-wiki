@@ -35,14 +35,14 @@ A traditional British steamed pudding made with suet and dried fruits (â€œspotsâ
 ## Historical Preparation  
 
 - Traditionally made with beef suet, flour, sugar, and currants.  
-- Steamed in cloth or ceramic basins over boiling water.  
+- Steamed in ceramic basins over boiling water or submerged in a [pudding cloth](pudding-cloth.md).  
 - Served with custard or treacle sauce.  
 
 ---
 
 ## Modern Preparation  
 
-- Often uses shredded suet (beef or vegetarian).  
+- Often uses shredded [suet](suet.md) (beef or vegetarian).  
 - Self-raising flour for lighter texture.  
 - Steamed or baked in oven-safe basins.  
 - Commonly paired with creamy custard sauce.  

@@ -50,7 +50,7 @@ Contains flavonoids, saponins, and vitamins.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-index.md)  
+- [Foraged & Wild Plants](plants-foraging.md)  
 
 ---
 

@@ -5,4 +5,4 @@ This repository contains Markdown pages for the **Cookery** section of the Self-
 Start here:  
 - [Cookery](cookery.md)  
 - [Preservation](preservation.md)  
-- [Foraged & Wild Plants](plants-index.md)
+- [Foraged & Wild Plants](plants-foraging.md)

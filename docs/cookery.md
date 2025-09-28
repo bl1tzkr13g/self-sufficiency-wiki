@@ -12,6 +12,9 @@ It includes recipes, survival rations, preservation techniques, traditional dish
 ## 🔹 [Preserved Foods Index](1preserved-foods-index.md)  
 
 ---
+## 🔹 [Utensil's Index](1utensil-index.md)  
+
+---
 ## 🔹[Confections Index](1confections-index.md)
 
 ---
@@ -26,7 +29,7 @@ It includes recipes, survival rations, preservation techniques, traditional dish
 
 ---
 
-## 🔹 [Foraged & Wild Plants Index](plants-index.md)  
+## 🔹 [Foraged & Wild Plants Index](plants-foraging.md)  
 
 ---
 

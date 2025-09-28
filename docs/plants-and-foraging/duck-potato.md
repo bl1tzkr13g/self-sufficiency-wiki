@@ -48,7 +48,7 @@ High in starch, carbohydrates.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-index.md)  
+- [Foraged & Wild Plants](plants-foraging.md)  
 
 ---
 

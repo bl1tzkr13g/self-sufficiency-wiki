@@ -52,7 +52,7 @@ Contains essential oils, vitamins, and minerals.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-index.md)  
+- [Foraged & Wild Plants](plants-foraging.md)  
 
 ---
 

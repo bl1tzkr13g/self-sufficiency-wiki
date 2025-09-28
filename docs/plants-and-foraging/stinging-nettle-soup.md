@@ -22,7 +22,7 @@ A traditional soup made from young stinging nettle leaves, boiled to remove the 
 
 - [Preservation Index](preservation.md)  
 - [Suet](suet.md)  
-- [Foraged & Wild Plants Index](../../plants-index.md)  
+- [Foraged & Wild Plants Index](plants-foraging.md)  
 
 ---
 

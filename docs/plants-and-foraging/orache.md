@@ -49,7 +49,7 @@ Rich in vitamins A and C, minerals, and protein.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-index.md)  
+- [Foraged & Wild Plants](plants-foraging.md)  
 
 ---
 

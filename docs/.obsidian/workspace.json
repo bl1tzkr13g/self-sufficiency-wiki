@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookery/foods/preserved-foods/pemmican.md",
+                "file": "cookery/drinks/molasses-beer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pemmican"
+              "title": "molasses-beer"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookery/foods/preserved-foods/pemmican.md",
+                "file": "cookery/drinks/molasses-beer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pemmican"
+              "title": "Backlinks for molasses-beer"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cookery/foods/preserved-foods/pemmican.md",
+                "file": "cookery/drinks/molasses-beer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pemmican"
+              "title": "Outgoing links from molasses-beer"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookery/foods/preserved-foods/pemmican.md",
+                "file": "cookery/drinks/molasses-beer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pemmican"
+              "title": "Outline of molasses-beer"
             }
           }
         ]
@@ -171,52 +171,52 @@
   },
   "active": "2fc8f97eb10d9b01",
   "lastOpenFiles": [
-    "cookery/foods/preserved-foods/images/pemmican.jpg",
-    "cookery/foods/preserved-foods/images/gringind-pemmican.jpg",
-    "cookery/foods/preserved-foods/1preserved-foods-index.md",
-    "cookery/foods/preserved-foods/hardtack.md",
-    "cookery/foods/preserved-foods/pemmican.md",
-    "cookery/foods/preserved-foods/suet-pudding.md",
-    "cookery/fats/dripping.md",
-    "cookery/fats/butter-ghee.md",
-    "cookery/fats/images/~laceholder-dripping.tmp",
-    "cookery/fats/lard.md",
-    "cookery/fats/suet.md",
-    "cookery/fats/tallow.md",
-    "cookery/foods/preserved-foods/portable-soup.md",
-    "cookery/foods/barley-soup.md",
-    "cookery/preservation-techniques/drying-dehydrating.md",
-    "cookery/preservation-techniques/pickling-fermentation.md",
-    "cookery/foods/spotted-dick.md",
-    "cookery/preservation-techniques/1preservation-techniques-index.md",
-    "cookery/foods/barley-broth.md",
-    "cookery/foods/1foods-index.md",
-    "cookery/foods/preserved-foods/images",
-    "cookery/fats/1fats-index.md",
-    "cookery/drinks/1drinks-index.md",
-    "cookery/drinks/barley-water.md",
-    "cookery/confections/barley-sugar.md",
-    "cookery/confections/1confections-index.md",
+    "cookery/drinks/table-beer.md",
+    "cookery/drinks/molasses-beer.md",
+    "cookery/drinks/small-beer.md",
+    "cookery/drinks/beer.md",
+    "cookery/drinks/spruce-beer.md",
     "cookery.md",
-    "tools.md",
-    "tinctures.md",
+    "cookery/utensil/1utensil-index.md",
+    "index.md",
+    "plants-foraging.md",
+    "cookery/ingredient/mesquite-flour.md",
+    "cookery/ingredient/vinegar.md",
+    "tinctures/ingredients/alcohol.md",
+    "cookery/ingredient/images/green-mesquite-pods-1.jpeg",
+    "cookery/ingredient/images/mesquite_honey150.jpg",
+    "cookery/ingredient/images/drymesquite.jpeg",
+    "cookery/ingredient/images/placeholder-mesquite-flour.jpg",
+    "cookery/ingredient/flours.md",
+    "cookery/ingredient/zucchini-flour.md",
+    "cookery/foods/spotted-dick.md",
+    "cookery/fats/suet.md",
+    "cookery/utensil/pudding-cloth.md",
+    "cookery/utensil/images/2-pudding-cloth.jpg",
+    "cookery/utensil/images/placeholder-pudding-cloth.jpg",
+    "cookery/utensil/images/1-pudding-cloth.jpg",
+    "cookery/utensil/images/placeholder-pudding-cloth.jpg.~tmp",
+    "cookery/ingredient/salt.md",
+    "cookery/foods/preserved-foods/salted-pork.md",
+    "cookery/ingredient/images",
+    "cookery/ingredient",
+    "cookery/utensil/images",
+    "cookery/utensil",
+    "cookery/foods/images/pudding cloth.jpg",
+    "cookery/foods/images/spotteddickpot.jpg",
+    "cookery/foods/images/spotteddick1.jpg",
+    "cookery/foods/preserved-foods/pemmican.md",
+    "cookery/preservation-techniques/salting-brining.md",
+    "cookery/preservation-techniques/smoking.md",
+    "cookery/preservation-techniques/preservation.md",
+    "cookery/preservation-techniques/pickling-fermentation.md",
+    "cookery/preservation-techniques/drying-dehydrating.md",
+    "cookery/foods/preserved-foods/suet-pudding.md",
+    "cookery/fats/images/~laceholder-dripping.tmp",
+    "cookery/foods/preserved-foods/images",
     "medicine/images",
     "medicine",
     "tools/images",
-    "tools",
-    "cookery/confections/images",
-    "cookery/confections",
-    "cookery/foods/preserved foods/Untitled.canvas",
-    "tinctures/recipes",
-    "plants-and-foraging/images/placeholder-angelica.jpg",
-    "plants/images/placeholder-barley.jpg",
-    "plants/images/placeholder-barley-field.jpg",
-    "plants-and-foraging/images",
-    "cookery/foods/images/placeholder-barley-sugar.jpg",
-    "cookery/foods/images/placeholder-barley-broth.jpg",
-    "cookery/foods/images/placeholder-barley-soup.jpg",
-    "cookery/drinks/images/placeholder-switchell.jpg",
-    "cookery/drinks/images/placeholder-ginger-beer.jpg",
-    "cookery/drinks/images/placeholder-mead.jpg"
+    "cookery/foods/preserved foods/Untitled.canvas"
   ]
 }
