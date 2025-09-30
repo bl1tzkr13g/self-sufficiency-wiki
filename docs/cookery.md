@@ -6,29 +6,29 @@ The **Cookery section** covers historical and modern methods of preparing, prese
 It includes recipes, survival rations, preservation techniques, traditional dishes, and foraged plants.  
 
 ---
-## 🔹 [Foods Index](1foods-index.md)  
+## 🔹 [Foods Index](/cookery/foods/1foods-index.md)  
 
 ---
-## 🔹 [Preserved Foods Index](1preserved-foods-index.md)  
+## 🔹 [Preserved Foods Index](/cookery/foods/preserved-foods/1preserved-foods-index.md)  
 
 ---
-## 🔹 [Utensil's Index](1utensil-index.md)  
+## 🔹 [Utensil's Index](/cookery/1utensil-index.md)  
 
 ---
-## 🔹 [Ingredients Index](1ingredients-index.md)  
+## 🔹 [Ingredients Index](/cookery/1ingredients-index.md)  
 
 ---
-## 🔹[Confections Index](1confections-index.md)
+## 🔹[Confections Index](/cookery/1confections-index.md)
 
 ---
-## 🔹 [Drinks Index](1drinks-index.md)
+## 🔹 [Drinks Index](/cookery/1drinks-index.md)
 
 ---
-## 🔹 [Fats & Oils Index](1fats-index)
+## 🔹 [Fats & Oils Index](/cookery/1fats-index)
 
 ---
 
-## 🔹 [Preservation Index](preservation.md)  
+## 🔹 [Preservation Index](/cookery/preservation.md)  
 
 ---
 
