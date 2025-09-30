@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookery.md",
+                "file": "cookery/preserved-foods-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cookery"
+              "title": "preserved-foods-index"
+            }
+          },
+          {
+            "id": "bddf8c661a855958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cookery/drinks/ginger-beer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ginger-beer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookery.md",
+                "file": "cookery/drinks/ginger-beer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cookery"
+              "title": "Backlinks for ginger-beer"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cookery.md",
+                "file": "cookery/drinks/ginger-beer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cookery"
+              "title": "Outgoing links from ginger-beer"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookery.md",
+                "file": "cookery/drinks/ginger-beer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cookery"
+              "title": "Outline of ginger-beer"
             }
           }
         ]
@@ -169,12 +184,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "2fc8f97eb10d9b01",
+  "active": "bddf8c661a855958",
   "lastOpenFiles": [
-    "cookery/foods/preserved-foods/1preserved-foods-index.md",
+    "cookery/drinks/beer.md",
+    "cookery/drinks/images/beer-brewing.jpg",
+    "cookery/drinks/barley-water.md",
+    "cookery/drinks-index.md",
+    "cookery/confections/barley-sugar.md",
+    "cookery/Terms/hard-crack-stage.md",
+    "cookery/fats-index.md",
+    "cookery/Terms",
+    "cookery/confections-index.md",
+    "cookery/confections/images/placeholder-barley-sugar.jpg.~tmp",
+    "cookery/confections/images/placeholder-barley-sugar.jpg",
+    "cookery/foods-index.md",
+    "cookery/ingredients-index.md",
+    "cookery/utensil-index.md",
     "cookery.md",
-    "cookery/foods/1foods-index.md",
+    "cookery/preservation-techniques-index.md",
+    "cookery/preserved-foods-index.md",
     "index.md",
+    "medicine/medicine.md",
+    "trees/trees.md",
+    "cookery/foods/preserved-foods/suet-pudding.md",
+    "cookery/foods/preserved-foods/fermented-apples.md",
     "cookery/foods/preserved-foods/potato-flakes.md",
     "plants-and-foraging/potatoes.md",
     "plants-and-foraging/carrots.md",
@@ -182,24 +215,9 @@
     "plants-and-foraging/garlic.md",
     "plants-and-foraging/parsnips.md",
     "plants-and-foraging/beets.md",
-    "plants-and-foraging/turnips.md",
-    "plants-and-foraging/radishes.md",
-    "plants-and-foraging/rutabagas.md",
-    "plants-and-foraging/cabbage.md",
-    "plants-and-foraging/winter-squash.md",
-    "plants-and-foraging/dry-beans.md",
-    "plants-and-foraging/corn-grain.md",
-    "cookery/foods/preserved-foods/fermented-apples.md",
-    "cookery/foods/preserved-foods/fermented-plums.md",
     "cookery/foods/preserved-foods/Untitled",
-    "trees/moringa-tree.md",
-    "trees/black-spruce-tree.md",
-    "trees/mesquite-tree.md",
-    "plants-and-foraging/barley.md",
     "trees/images",
     "trees",
-    "plants-foraging.md",
-    "animal-husbandry/squab-towers.md",
     "animal-husbandry/images",
     "animal-husbandry",
     "cookery/ingredient/images/green-mesquite-pods-1.jpeg",
@@ -212,11 +230,7 @@
     "cookery/utensil/images/placeholder-pudding-cloth.jpg.~tmp",
     "cookery/ingredient/images",
     "cookery/ingredient",
-    "cookery/utensil/images",
-    "cookery/utensil",
     "cookery/foods/images/pudding cloth.jpg",
-    "cookery/foods/images/spotteddickpot.jpg",
-    "cookery/foods/images/spotteddick1.jpg",
     "cookery/foods/preserved foods/Untitled.canvas"
   ]
 }
