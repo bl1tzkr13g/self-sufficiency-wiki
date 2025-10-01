@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookery/drinks/ginger-beer.md",
+                "file": "plants-and-foraging/red-currants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ginger-beer"
+              "title": "red-currants"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookery/drinks/ginger-beer.md",
+                "file": "plants-and-foraging/red-currants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ginger-beer"
+              "title": "Backlinks for red-currants"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cookery/drinks/ginger-beer.md",
+                "file": "plants-and-foraging/red-currants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ginger-beer"
+              "title": "Outgoing links from red-currants"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookery/drinks/ginger-beer.md",
+                "file": "plants-and-foraging/red-currants.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ginger-beer"
+              "title": "Outline of red-currants"
             }
           }
         ]
@@ -186,6 +186,12 @@
   },
   "active": "bddf8c661a855958",
   "lastOpenFiles": [
+    "cookery/foods/currant-jelly.md",
+    "cookery/drinks/black-currant-cordial.md",
+    "plants-and-foraging/black-currants.md",
+    "cookery/drinks/red-currant-wine.md",
+    "plants-and-foraging/red-currants.md",
+    "cookery/drinks/ginger-beer.md",
     "cookery/drinks/beer.md",
     "cookery/drinks/images/beer-brewing.jpg",
     "cookery/drinks/barley-water.md",
@@ -210,11 +216,6 @@
     "cookery/foods/preserved-foods/fermented-apples.md",
     "cookery/foods/preserved-foods/potato-flakes.md",
     "plants-and-foraging/potatoes.md",
-    "plants-and-foraging/carrots.md",
-    "plants-and-foraging/onion.md",
-    "plants-and-foraging/garlic.md",
-    "plants-and-foraging/parsnips.md",
-    "plants-and-foraging/beets.md",
     "cookery/foods/preserved-foods/Untitled",
     "trees/images",
     "trees",
