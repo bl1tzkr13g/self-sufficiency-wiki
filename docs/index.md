@@ -1,5 +1,5 @@
 # Self-Sufficiency Wiki
-v00.0001a
+v00.0001b
 
 Welcome! This site is designed like a clean, printable field manual you can also browse.
 Use the left navigation or the search to find topics. Cross‑references use double‑brackets
