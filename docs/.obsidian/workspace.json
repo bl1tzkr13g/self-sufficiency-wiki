@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookery/foods-index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "foods-index"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookery/foods-index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for foods-index"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cookery/foods-index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from foods-index"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookery/foods-index.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of foods-index"
+              "title": "Outline of index"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "bddf8c661a855958",
   "lastOpenFiles": [
+    "cookery/foods-index.md",
     "cookery.md",
     "cookery/foods/spotted-dick.md",
     "cookery/utensil/pudding-cloth.md",
@@ -202,7 +203,6 @@
     "cookery/foods/barley-soup.md",
     "cookery/foods/barley-broth.md",
     "plants-and-foraging/sorrel.md",
-    "cookery/foods-index.md",
     "plants-and-foraging/red-currants.md",
     "cookery/drinks/black-currant-cordial.md",
     "plants-and-foraging/black-currants.md",
