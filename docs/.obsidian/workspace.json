@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plants-and-foraging/red-currants.md",
+                "file": "cookery/foods-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "red-currants"
+              "title": "foods-index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plants-and-foraging/red-currants.md",
+                "file": "cookery/foods-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for red-currants"
+              "title": "Backlinks for foods-index"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plants-and-foraging/red-currants.md",
+                "file": "cookery/foods-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from red-currants"
+              "title": "Outgoing links from foods-index"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plants-and-foraging/red-currants.md",
+                "file": "cookery/foods-index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of red-currants"
+              "title": "Outline of foods-index"
             }
           }
         ]
@@ -186,36 +186,36 @@
   },
   "active": "bddf8c661a855958",
   "lastOpenFiles": [
+    "cookery.md",
+    "cookery/foods/spotted-dick.md",
+    "cookery/utensil/pudding-cloth.md",
+    "cookery/Terms/hard-crack-stage.md",
+    "plants-and-foraging/good-king-henry.md",
+    "plants-foraging.md",
+    "plants-and-foraging/horseradish.md",
+    "plants-and-foraging/sweet-sicily.md",
+    "index.md",
+    "trees-index.md",
+    "cookery/ingredient/mesquite-flour.md",
+    "cookery/ingredient/flours.md",
     "cookery/foods/currant-jelly.md",
+    "cookery/foods/barley-soup.md",
+    "cookery/foods/barley-broth.md",
+    "plants-and-foraging/sorrel.md",
+    "cookery/foods-index.md",
+    "plants-and-foraging/red-currants.md",
     "cookery/drinks/black-currant-cordial.md",
     "plants-and-foraging/black-currants.md",
     "cookery/drinks/red-currant-wine.md",
-    "plants-and-foraging/red-currants.md",
     "cookery/drinks/ginger-beer.md",
     "cookery/drinks/beer.md",
     "cookery/drinks/images/beer-brewing.jpg",
     "cookery/drinks/barley-water.md",
     "cookery/drinks-index.md",
     "cookery/confections/barley-sugar.md",
-    "cookery/Terms/hard-crack-stage.md",
-    "cookery/fats-index.md",
     "cookery/Terms",
-    "cookery/confections-index.md",
     "cookery/confections/images/placeholder-barley-sugar.jpg.~tmp",
     "cookery/confections/images/placeholder-barley-sugar.jpg",
-    "cookery/foods-index.md",
-    "cookery/ingredients-index.md",
-    "cookery/utensil-index.md",
-    "cookery.md",
-    "cookery/preservation-techniques-index.md",
-    "cookery/preserved-foods-index.md",
-    "index.md",
-    "medicine/medicine.md",
-    "trees/trees.md",
-    "cookery/foods/preserved-foods/suet-pudding.md",
-    "cookery/foods/preserved-foods/fermented-apples.md",
-    "cookery/foods/preserved-foods/potato-flakes.md",
-    "plants-and-foraging/potatoes.md",
     "cookery/foods/preserved-foods/Untitled",
     "trees/images",
     "trees",

@@ -7,21 +7,21 @@ It also links to prepared dishes made from these plants.
 
 ---
 ## 🔹 Plant Entries  
-- [Sorrel](sorrel.md)  
-- [Chicory](chicory.md)  
-- [Skirret](skirret.md)  
-- [Ground Elder](ground-elder.md)  
-- [Angelica](angelica.md)
-- [Orache](orache.md)  
-- [Lamb’s Quarters](lambs-quarters.md)
-- [Good King Henry](good-king-henry.md)  
-- [Pig Nut](pig-nut.md) 
-- [Lovage](lovage.md)  
-- [Wild Celery](wild-celery.md)  
-- [Horseradish](horseradish.md)  
-- [Sweet Sicily](sweet-sicily.md) 
-- [Duck Potato (Arrowhead)](duck-potato.md)  
-- [Goldenrod](goldenrod.md)  
+- [Sorrel](/plants-and-foraging/sorrel.md)
+- [Chicory](/plants-and-foraging/chicory.md)
+- [Skirret](/plants-and-foraging/skirret.md)
+- [Ground Elder](/plants-and-foraging/ground-elder.md)
+- [Angelica](/plants-and-foraging/angelica.md)
+- [Orache](/plants-and-foraging/orache.md)
+- [Lamb’s Quarters](/plants-and-foraging/lambs-quarters.md)
+- [Good King Henry](/plants-and-foraging/good-king-henry.md)
+- [Pig Nut](/plants-and-foraging/pig-nut.md)
+- [Lovage](/plants-and-foraging/lovage.md)
+- [Wild Celery](/plants-and-foraging/wild-celery.md)
+- [Horseradish](/plants-and-foraging/horseradish.md)
+- [Sweet Sicily](/plants-and-foraging/sweet-sicily.md)
+- [Duck Potato (Arrowhead)](/plants-and-foraging/duck-potato.md)
+- [Goldenrod](/plants-and-foraging/goldenrod.md)
 
 ---
 
