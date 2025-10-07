@@ -75,7 +75,7 @@ A traditional underground or partially buried storage space that uses the earthâ
 
 ## Cross References  
 
-- [Preservation Index](../../../preservation.md)  
+- [Preservation Index](preservation.md)  
 - [Smoking](smoking.md)  
 - [Drying & Dehydrating](drying-dehydrating.md)  
 - [Salting & Brining](salting-brining.md)  

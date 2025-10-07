@@ -1,3 +1,12 @@
+---
+title: Garlic
+tags:
+  - preservation
+  - storage
+  - hanging
+  - garlic
+category: Plants
+---
 # Garlic (Allium sativum)
 
 ## Planting

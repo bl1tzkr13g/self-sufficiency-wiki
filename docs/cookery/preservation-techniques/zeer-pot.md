@@ -84,7 +84,7 @@ A traditional evaporative cooling device made by nesting two clay pots with wet 
 
 ## Cross References  
 
-- [Preservation Index](../../../preservation.md)  
+- [Preservation Index](preservation.md)  
 - [Root Cellars](root-cellars.md)  
 - [Drying & Dehydrating](drying-dehydrating.md)  
 - [Pickling & Fermentation](pickling-fermentation.md)  

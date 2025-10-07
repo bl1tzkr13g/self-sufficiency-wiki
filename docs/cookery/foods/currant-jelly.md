@@ -1,7 +1,7 @@
 # Currant Jelly (Red, Black, or White)
 
 Currant jelly is a traditional preserve made from currants of any color. Red currants give a tart, bright jelly, while black currants produce a darker, richer flavor. White currants are milder and sweeter.
-
+![[currantjelly.jpg]]
 ---
 
 ## Ingredients

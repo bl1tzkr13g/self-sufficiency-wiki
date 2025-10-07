@@ -78,7 +78,7 @@ A preservation method where whole apples are submerged in a brine solution and l
 
 ## Cross References  
 
-- [Preservation Index](../../../preservation.md)  
+- [Preservation Index](preservation.md)  
 - [Pickling & Fermentation](../techniques/pickling-fermentation.md)  
 - [Root Cellars](../techniques/root-cellars.md)  
 - [Zeer Pot](../techniques/zeer-pot.md)  

@@ -73,7 +73,7 @@ A hardy desert tree or shrub found in the Americas, valued for its wood, pods, a
 
 - [Foraged & Wild Plants Index](../plants-index.md)  
 - [Cookery Index](../cookery.md)  
-- [Preservation Index](../preservation.md)  
+- [Preservation Index](preservation.md)  
 
 ---
 

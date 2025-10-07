@@ -83,7 +83,7 @@ A preservation method where ripe plums are submerged in brine or honey and allow
 
 - [Fermented Apples](fermented-apples.md)  
 - [Pickling & Fermentation](../techniques/pickling-fermentation.md)  
-- [Preservation Index](../../../preservation.md)  
+- [Preservation Index](preservation.md)  
 - [Root Cellars](../techniques/root-cellars.md)  
 
 ---

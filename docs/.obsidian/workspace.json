@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "cookery/utensil/dutch-oven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "dutch-oven"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "cookery/utensil/dutch-oven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for dutch-oven"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "cookery/utensil/dutch-oven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from dutch-oven"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "cookery/utensil/dutch-oven.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of dutch-oven"
             }
           }
         ]
@@ -186,10 +186,34 @@
   },
   "active": "bddf8c661a855958",
   "lastOpenFiles": [
+    "cookery/utensil/images/dutch_oven_stew.jpg",
+    "cookery/utensil/images/dutch_oven_roast.jpg",
+    "cookery/utensil/dutch-oven.md",
+    "cookery/utensil/images/dutch_oven_bread.jpg",
+    "cookery/utensil/images/dutch_oven.jpg",
+    "cookery/foods/preserved-foods/zante_currants.md",
+    "plants-and-foraging/currants.md",
+    "plants-and-foraging/dry-beans.md",
+    "plants-and-foraging/images/currants(2).jpg",
+    "plants-and-foraging/black-currants.md",
+    "cookery/foods/currant-jelly.md",
+    "cookery/foods/images/currantjelly.jpg",
+    "cookery/foods/hot-water-cornbread.md",
+    "cookery/foods/images/spotteddickpot.jpg",
+    "cookery/foods/images/spotteddick1.jpg",
+    "cookery/foods/images/placeholder-spotted-dick.jpg",
+    "cookery/foods/images/hot_water_cornbread.jpg",
+    "cookery/preservation-techniques/hanging-crops.md",
+    "cookery/preservation-techniques/drying-dehydrating.md",
+    "cookery/foods/spotted-dick.md",
+    "cookery/preservation.md",
+    "cookery/preservation-techniques-index.md",
+    "plants-and-foraging/garlic.md",
     "cookery.md",
+    "cookery/utensil-index.md",
+    "cookery/preserved-foods-index.md",
     "cookery/foods-index.md",
     "index.md",
-    "cookery/foods/spotted-dick.md",
     "cookery/utensil/pudding-cloth.md",
     "cookery/Terms/hard-crack-stage.md",
     "plants-and-foraging/good-king-henry.md",
@@ -197,41 +221,17 @@
     "plants-and-foraging/horseradish.md",
     "plants-and-foraging/sweet-sicily.md",
     "trees-index.md",
-    "cookery/ingredient/mesquite-flour.md",
-    "cookery/ingredient/flours.md",
-    "cookery/foods/currant-jelly.md",
-    "cookery/foods/barley-soup.md",
-    "cookery/foods/barley-broth.md",
-    "plants-and-foraging/sorrel.md",
-    "plants-and-foraging/red-currants.md",
-    "cookery/drinks/black-currant-cordial.md",
-    "plants-and-foraging/black-currants.md",
-    "cookery/drinks/red-currant-wine.md",
-    "cookery/drinks/ginger-beer.md",
-    "cookery/drinks/beer.md",
     "cookery/drinks/images/beer-brewing.jpg",
-    "cookery/drinks/barley-water.md",
-    "cookery/drinks-index.md",
-    "cookery/confections/barley-sugar.md",
     "cookery/Terms",
     "cookery/confections/images/placeholder-barley-sugar.jpg.~tmp",
-    "cookery/confections/images/placeholder-barley-sugar.jpg",
     "cookery/foods/preserved-foods/Untitled",
     "trees/images",
     "trees",
     "animal-husbandry/images",
     "animal-husbandry",
-    "cookery/ingredient/images/green-mesquite-pods-1.jpeg",
-    "cookery/ingredient/images/mesquite_honey150.jpg",
-    "cookery/ingredient/images/drymesquite.jpeg",
-    "cookery/ingredient/images/placeholder-mesquite-flour.jpg",
-    "cookery/utensil/images/2-pudding-cloth.jpg",
-    "cookery/utensil/images/placeholder-pudding-cloth.jpg",
-    "cookery/utensil/images/1-pudding-cloth.jpg",
     "cookery/utensil/images/placeholder-pudding-cloth.jpg.~tmp",
     "cookery/ingredient/images",
     "cookery/ingredient",
-    "cookery/foods/images/pudding cloth.jpg",
     "cookery/foods/preserved foods/Untitled.canvas"
   ]
 }
