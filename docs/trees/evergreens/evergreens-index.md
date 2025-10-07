@@ -94,9 +94,3 @@ This guide helps identify common U.S. evergreens and distinguishes between **saf
 - [[Edible Tree Barks and Resins]]
 
 ---
-
-**Image suggestions:**
-- `plants/images/evergreen_index.jpg` → Mixed conifer forest  
-- `plants/images/safe_conifers.jpg` → White pine, spruce, fir together  
-- `plants/images/yew_warning.jpg` → Yew branch with red berries (⚠️ caption: Toxic)  
-- `plants/images/forest_cones.jpg` → Assorted cones for ID reference

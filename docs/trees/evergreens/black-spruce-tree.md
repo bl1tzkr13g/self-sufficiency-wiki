@@ -22,9 +22,9 @@ A hardy evergreen conifer found across northern North America, valued for timber
 - Small, egg-shaped cones (¾–1½ in long).  
 - Grows in cold, boggy, northern climates across Canada and northern USA.  
 
-![Picture: Black spruce tree](images/placeholder-black-spruce-tree.jpg)  
-![Picture: Black spruce needles and cones](images/placeholder-black-spruce-needles-cones.jpg)  
-
+![Picture: Black spruce tree](trees/evergreens/images/blackspruce1.jpg)  
+![Picture: Black spruce tree](trees/evergreens/images/blackspruce2.jpg)  
+![Picture: Black spruce tree](trees/evergreens/images/blackspruce3.jpg)  
 ---
 
 ## Historical Use  

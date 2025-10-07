@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookery/drinks/barley-water.md",
+                "file": "trees/evergreens/black-spruce-tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "barley-water"
+              "title": "black-spruce-tree"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookery/drinks/barley-water.md",
+                "file": "trees/evergreens/black-spruce-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for barley-water"
+              "title": "Backlinks for black-spruce-tree"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cookery/drinks/barley-water.md",
+                "file": "trees/evergreens/black-spruce-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from barley-water"
+              "title": "Outgoing links from black-spruce-tree"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookery/drinks/barley-water.md",
+                "file": "trees/evergreens/black-spruce-tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of barley-water"
+              "title": "Outline of black-spruce-tree"
             }
           }
         ]
@@ -186,6 +186,28 @@
   },
   "active": "bddf8c661a855958",
   "lastOpenFiles": [
+    "trees/evergreens/images/blackspruce3.jpg",
+    "trees/evergreens/images/blackspruce2.jpg",
+    "trees/evergreens/images/blackspruce1.jpg",
+    "trees/evergreens/balsam-fir.md",
+    "trees/evergreens/images/balsamfir4.jpg",
+    "trees/evergreens/images/balsamfir3.jpg",
+    "trees/evergreens/images/balsamfir2.jpg",
+    "trees/evergreens/images/balsamfir1.jpg",
+    "trees/evergreens/images/balsamfir5.jpg",
+    "trees/moringa-tree.md",
+    "trees/mesquite-tree.md",
+    "trees/evergreens/yew.md",
+    "trees/evergreens/spruce.md",
+    "trees/evergreens/ponderosa.md",
+    "trees/evergreens/norfolk-island-pine.md",
+    "trees/evergreens/loblolly-pine.md",
+    "trees/evergreens/evergreens-index.md",
+    "trees/evergreens/eastern-white-pine.md",
+    "trees/evergreens/douglas-fir.md",
+    "trees/evergreens/black-spruce-tree.md",
+    "animal-husbandry/squab-towers.md",
+    "cookery/drinks/barley-water.md",
     "cookery/drinks/black-currant-cordial.md",
     "cookery/drinks/switchell.md",
     "cookery/drinks/tonics-index.md",
@@ -197,41 +219,19 @@
     "cookery/drinks/tonics/fire-cider.md",
     "cookery/drinks/tonics/vinegar-tonics.md",
     "cookery/drinks/tonics/tonics.md",
-    "cookery/syrups/spruce-tip-syrup-&-sugar.md",
     "cookery/drinks/tonics/images",
     "cookery/drinks/tonics",
-    "cookery/syrups/evergreen-syrup-tonics.md",
     "trees/evergreens/images/yew.jpg",
     "cookery/syrups/images",
     "cookery/syrups",
-    "cookery/drinks/beers/table-beer.md",
-    "cookery/drinks/beers/spruce-beer.md",
-    "cookery/drinks/ciders/cider.md",
     "cookery/drinks/meads/images",
     "cookery/drinks/meads",
     "cookery/drinks/sodas/images/pine_needle_soda.jpg",
     "cookery/drinks/ciders/images",
     "cookery/drinks/ciders",
-    "cookery/drinks/beers/beer.md",
     "cookery/drinks/sodas/images",
     "cookery/drinks/sodas",
-    "cookery/drinks/barley-water.md",
-    "cookery/drinks/wines/red-currant-wine.md",
-    "cookery/drinks/wines/prickly-pear-wine.md",
-    "cookery/drinks/sodas/pine-needle-soda.md",
-    "cookery/drinks/beers/molasses-beer.md",
-    "cookery/drinks/beers/ginger-beer.md",
-    "cookery/drinks/teas/evergreen-tea.md",
-    "trees/evergreens/evergreens-index.md",
-    "trees/evergreens/balsam-fir.md",
     "cookery/utensil/images/dutch_oven_stew.jpg",
-    "cookery/utensil/images/dutch_oven_roast.jpg",
-    "cookery/utensil/images/dutch_oven_bread.jpg",
-    "cookery/utensil/images/dutch_oven.jpg",
-    "plants-and-foraging/images/currants(2).jpg",
-    "cookery/foods/images/currantjelly.jpg",
-    "cookery/foods/images/spotteddickpot.jpg",
-    "cookery/foods/images/spotteddick1.jpg",
     "cookery/foods/preserved foods/Untitled.canvas"
   ]
 }

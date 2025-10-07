@@ -62,8 +62,3 @@ Grows in **cool, moist forests**, foothills, and mountainous terrain.
 - [[Edible Conifers]]
 
 ---
-
-**Image suggestions:**
-- `plants/images/douglas_fir.jpg` → Branch and cones with mousetail bracts  
-- `plants/images/douglas_fir_needles.jpg` → Needles on twig  
-- `plants/images/douglas_fir_cones.jpg` → Close-up cones

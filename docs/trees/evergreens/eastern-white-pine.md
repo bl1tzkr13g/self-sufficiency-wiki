@@ -65,8 +65,3 @@ Tastes citrusy and helps prevent scurvy in winter.
 - [[Desert Survival Foods]]
 
 ---
-
-**Image suggestions:**
-- `plants/images/eastern_white_pine.jpg` → Needles and cones  
-- `plants/images/eastern_white_pine_branch.jpg` → Close-up of 5-needle bundles  
-- `plants/images/pine_needle_tea.jpg` → Brewed pine tea

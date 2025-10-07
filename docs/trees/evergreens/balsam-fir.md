@@ -1,6 +1,6 @@
 # Balsam Fir (*Abies balsamea*)
 
-![Balsam fir](plants/images/balsam_fir.jpg)
+![Balsam fir](trees/evergreens/images/balsamfir4.jpg)
 
 The **Balsam Fir** is a fragrant northern evergreen known for its pleasant balsam aroma, soft needles, and resin “blisters.”  
 It’s one of the safest conifers for teas, tonics, and survival uses.
@@ -10,9 +10,12 @@ It’s one of the safest conifers for teas, tonics, and survival uses.
 ## 🌿 Identification
 
 - **Needles:** Short (½–1 inch), flat, dark green with silvery underside  
+![Balsam fir](trees/evergreens/images/balsamfir1.jpg)
 - **Arrangement:** Two rows, attached directly to twig (no peg)  
 - **Cones:** Upright on upper branches (not hanging)  
+![Balsam fir](trees/evergreens/images/balsamfir5.jpg)
 - **Bark:** Smooth, gray with raised resin blisters  
+![Balsam fir](trees/evergreens/images/balsamfir2.jpg)
 - **Aroma:** Sweet and balsamic  
 
 > 💡 *Cones stand upright on firs—“Firs point up.”*

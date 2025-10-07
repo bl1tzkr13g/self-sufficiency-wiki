@@ -69,8 +69,3 @@ Mix equal parts young tips and sugar, steep 2–3 weeks, strain, and use as syru
 - [[Forest Survival Foods]]
 
 ---
-
-**Image suggestions:**
-- `plants/images/spruce.jpg` → Blue spruce branch  
-- `plants/images/spruce_tips.jpg` → Young green tips  
-- `plants/images/spruce_cones.jpg` → Hanging spruce cones
