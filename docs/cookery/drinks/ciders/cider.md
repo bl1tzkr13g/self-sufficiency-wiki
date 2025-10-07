@@ -19,9 +19,9 @@ A fermented drink made from apple juice (sometimes pears = perry).
 **Modern Use:**  
 - Alcoholic cider and non-alcoholic apple cider both common.  
 
-![Picture: Mug of cider](images/placeholder-cider.jpg)
+![Picture: Mug of cider](placeholder-cider.jpg)
 
 ---
 
 ## Cross References  
-- [Cookery Index](../../cookery.md)  
+- [Cookery Index](cookery.md)  

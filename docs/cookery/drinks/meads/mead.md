@@ -21,9 +21,9 @@ An alcoholic drink made by fermenting honey with water.
 - Revived as a craft beverage.  
 - Many varieties with fruits and spices.  
 
-![Picture: Mead in goblet](images/placeholder-mead.jpg)
+![Picture: Mead in goblet](placeholder-mead.jpg)
 
 ---
 
 ## Cross References  
-- [Cookery Index](../../cookery.md)  
+- [Cookery Index](cookery.md)  

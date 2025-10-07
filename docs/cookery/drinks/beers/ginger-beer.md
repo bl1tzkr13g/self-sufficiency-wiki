@@ -21,9 +21,9 @@ A fermented soft drink made with ginger, sugar, water, lemon, and yeast.
 - Non-alcoholic soda or home-brewed version.  
 - Mixer for cocktails.  
 
-![Picture: Glass of ginger beer](images/placeholder-ginger-beer.jpg)
+![Picture: Glass of ginger beer](placeholder-ginger-beer.jpg)
 
 ---
 
 ## Cross References  
-- [Cookery Index](../../cookery.md)  
+- [Cookery Index](cookery.md)  

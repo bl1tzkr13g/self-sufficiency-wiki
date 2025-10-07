@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookery/utensil/dutch-oven.md",
+                "file": "cookery/drinks/barley-water.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dutch-oven"
+              "title": "barley-water"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookery/utensil/dutch-oven.md",
+                "file": "cookery/drinks/barley-water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dutch-oven"
+              "title": "Backlinks for barley-water"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cookery/utensil/dutch-oven.md",
+                "file": "cookery/drinks/barley-water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from dutch-oven"
+              "title": "Outgoing links from barley-water"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookery/utensil/dutch-oven.md",
+                "file": "cookery/drinks/barley-water.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dutch-oven"
+              "title": "Outline of barley-water"
             }
           }
         ]
@@ -186,52 +186,52 @@
   },
   "active": "bddf8c661a855958",
   "lastOpenFiles": [
+    "cookery/drinks/black-currant-cordial.md",
+    "cookery/drinks/switchell.md",
+    "cookery/drinks/tonics-index.md",
+    "cookery/drinks/tonics/tonic-storage.md",
+    "cookery/drinks/tonics/seasonal-tonics-guide.md",
+    "cookery/drinks/tonics/leaf-flower-tonics.md",
+    "cookery/drinks/tonics/root-tonics.md",
+    "cookery/drinks/tonics/herbal_tonics.md",
+    "cookery/drinks/tonics/fire-cider.md",
+    "cookery/drinks/tonics/vinegar-tonics.md",
+    "cookery/drinks/tonics/tonics.md",
+    "cookery/syrups/spruce-tip-syrup-&-sugar.md",
+    "cookery/drinks/tonics/images",
+    "cookery/drinks/tonics",
+    "cookery/syrups/evergreen-syrup-tonics.md",
+    "trees/evergreens/images/yew.jpg",
+    "cookery/syrups/images",
+    "cookery/syrups",
+    "cookery/drinks/beers/table-beer.md",
+    "cookery/drinks/beers/spruce-beer.md",
+    "cookery/drinks/ciders/cider.md",
+    "cookery/drinks/meads/images",
+    "cookery/drinks/meads",
+    "cookery/drinks/sodas/images/pine_needle_soda.jpg",
+    "cookery/drinks/ciders/images",
+    "cookery/drinks/ciders",
+    "cookery/drinks/beers/beer.md",
+    "cookery/drinks/sodas/images",
+    "cookery/drinks/sodas",
+    "cookery/drinks/barley-water.md",
+    "cookery/drinks/wines/red-currant-wine.md",
+    "cookery/drinks/wines/prickly-pear-wine.md",
+    "cookery/drinks/sodas/pine-needle-soda.md",
+    "cookery/drinks/beers/molasses-beer.md",
+    "cookery/drinks/beers/ginger-beer.md",
+    "cookery/drinks/teas/evergreen-tea.md",
+    "trees/evergreens/evergreens-index.md",
+    "trees/evergreens/balsam-fir.md",
     "cookery/utensil/images/dutch_oven_stew.jpg",
     "cookery/utensil/images/dutch_oven_roast.jpg",
-    "cookery/utensil/dutch-oven.md",
     "cookery/utensil/images/dutch_oven_bread.jpg",
     "cookery/utensil/images/dutch_oven.jpg",
-    "cookery/foods/preserved-foods/zante_currants.md",
-    "plants-and-foraging/currants.md",
-    "plants-and-foraging/dry-beans.md",
     "plants-and-foraging/images/currants(2).jpg",
-    "plants-and-foraging/black-currants.md",
-    "cookery/foods/currant-jelly.md",
     "cookery/foods/images/currantjelly.jpg",
-    "cookery/foods/hot-water-cornbread.md",
     "cookery/foods/images/spotteddickpot.jpg",
     "cookery/foods/images/spotteddick1.jpg",
-    "cookery/foods/images/placeholder-spotted-dick.jpg",
-    "cookery/foods/images/hot_water_cornbread.jpg",
-    "cookery/preservation-techniques/hanging-crops.md",
-    "cookery/preservation-techniques/drying-dehydrating.md",
-    "cookery/foods/spotted-dick.md",
-    "cookery/preservation.md",
-    "cookery/preservation-techniques-index.md",
-    "plants-and-foraging/garlic.md",
-    "cookery.md",
-    "cookery/utensil-index.md",
-    "cookery/preserved-foods-index.md",
-    "cookery/foods-index.md",
-    "index.md",
-    "cookery/utensil/pudding-cloth.md",
-    "cookery/Terms/hard-crack-stage.md",
-    "plants-and-foraging/good-king-henry.md",
-    "plants-foraging.md",
-    "plants-and-foraging/horseradish.md",
-    "plants-and-foraging/sweet-sicily.md",
-    "trees-index.md",
-    "cookery/drinks/images/beer-brewing.jpg",
-    "cookery/Terms",
-    "cookery/confections/images/placeholder-barley-sugar.jpg.~tmp",
-    "cookery/foods/preserved-foods/Untitled",
-    "trees/images",
-    "trees",
-    "animal-husbandry/images",
-    "animal-husbandry",
-    "cookery/utensil/images/placeholder-pudding-cloth.jpg.~tmp",
-    "cookery/ingredient/images",
-    "cookery/ingredient",
     "cookery/foods/preserved foods/Untitled.canvas"
   ]
 }

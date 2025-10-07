@@ -69,9 +69,9 @@ A hardy evergreen conifer found across northern North America, valued for timber
 
 ## Cross References  
 
-- [Foraged & Wild Plants Index](../plants-index.md)  
-- [Spruce Beer](../cookery/drinks/spruce-beer.md)  
-- [Cookery Index](../cookery.md)  
+- [Foraged & Wild Plants Index](plants-index.md)  
+- [Spruce Beer](spruce-beer.md)  
+- [Cookery Index](cookery.md)  
 
 ---
 

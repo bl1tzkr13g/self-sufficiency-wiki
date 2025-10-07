@@ -1,7 +1,7 @@
 # Beer  
 *Cookery / Drinks / Preservation*  
 
-![Beer brewing](cookery/drinks/images/beer-brewing.jpg)  
+![Beer brewing](beer-brewing.jpg)  
 
 Beer is one of humanity’s oldest and most widespread drinks. In the 18th century, it was more than a recreational beverage—it was a **daily survival necessity**. Unsafe water sources and the dangers of hard liquor meant beer filled a vital role as a safe, nourishing alternative.  
 
