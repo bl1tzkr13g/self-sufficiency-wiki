@@ -1,3 +1,14 @@
+---
+title: Barley Broth
+category: Cookery / Food
+tags:
+  - barley
+  - survival cooking
+  - campfire recipes
+  - Broth
+description:
+created: 2025-10-06
+---
 # Barley Broth
 
 ---
@@ -26,5 +37,5 @@ A lighter broth made with barley, often with vegetables and sometimes meat.
 
 ## Cross References  
 - [Barley](barley.md)  
-- [Barley Soup](barley-soup.md)  
+- [Barley Soup](barley_soup.md)  
 - [Cookery Index](../../cookery.md)  

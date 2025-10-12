@@ -27,5 +27,5 @@ A hearty soup made with barley grains, vegetables, and sometimes meat.
 
 ## Cross References  
 - [Barley](barley.md)  
-- [Barley Broth](barley-broth.md)  
+- [Barley Broth](barley_broth.md)  
 - [Cookery Index](../../cookery.md)  

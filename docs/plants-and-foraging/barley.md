@@ -28,8 +28,8 @@ A cereal grain grown since antiquity, used for bread, soups, drinks, brewing, an
 ---
 
 ## Cross References
-- [Barley Soup](../cookery/foods/barley-soup.md)  
-- [Barley Broth](../cookery/foods/barley-broth.md)  
+- [Barley Soup](barley_soup.md)  
+- [Barley Broth](barley_broth.md)  
 - [Barley Water](../cookery/drinks/barley-water.md)  
 - [Barley Sugar](barley-sugar.md)  
 - [Foraged & Wild Plants Index](plants-foraging.md)  
