@@ -19,6 +19,8 @@ theme:
 plugins:
   - search
   - awesome-pages
+  - ezlinks:
+      wikilinks: true   # enables [[Page]] links
   - obsidian-links:
       wikilinks: true
       markdown_extensions: true
