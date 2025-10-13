@@ -9,18 +9,18 @@ It includes recipes, survival rations, preservation techniques, traditional dish
 ## 🔹 [Foods Index](../cookery/foods-index.md)
 
 ---
-## 🔹 [Preserved Foods Index](../cookery/preserved-foods-index.md)
+## 🔹 [Preserved Foods Index](preserved_foods_index.md)
 ---
-## 🔹 [Utensil's Index](../cookery/utensil-index.md)
+## 🔹 [Utensil's Index](utensil_index.md)
 
 ---
 ## 🔹 [Ingredients Index](../cookery/ingredients-index.md)
 
 ---
-## 🔹[Confections Index](../cookery/confections-index.md)
+## 🔹[Confections Index](confections_index.md)
 
 ---
-## 🔹 [Drinks Index](../cookery/drinks-index.md)
+## 🔹 [Drinks Index](drinks_index.md)
 
 ---
 ## 🔹 [Fats & Oils Index](../cookery/fats-index.md)
@@ -31,7 +31,7 @@ It includes recipes, survival rations, preservation techniques, traditional dish
 
 ---
 
-## 🔹 [Foraged & Wild Plants Index](plants-foraging.md)
+## 🔹 [Foraged & Wild Plants Index](plants_foraging.md)
 
 ---
 

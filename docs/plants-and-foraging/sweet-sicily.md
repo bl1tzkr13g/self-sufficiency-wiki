@@ -48,7 +48,7 @@ Contains aromatic oils, vitamin C.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-foraging.md)  
+- [Foraged & Wild Plants](plants_foraging.md)  
 
 ---
 

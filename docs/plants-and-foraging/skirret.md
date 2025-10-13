@@ -51,7 +51,7 @@ Rich in starch, fiber, and minerals.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-foraging.md)  
+- [Foraged & Wild Plants](plants_foraging.md)  
 
 ---
 

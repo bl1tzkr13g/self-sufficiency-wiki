@@ -6,7 +6,7 @@ aliases: [ethanol, ethyl alcohol]
 
 # Alcohol
 
-**Alcohol** (ethanol) is a common solvent and preservative used in extractions like [[tinctures]].
+**Alcohol** (ethanol) is a common solvent and preservative used in extractions like [[tinctures_index]].
 
 ## Strength
 - For tinctures, 40–95% ABV (80–190 proof) ethanol is typical.

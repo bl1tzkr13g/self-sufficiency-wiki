@@ -19,6 +19,9 @@ theme:
 plugins:
   - search
   - awesome-pages
+  - obsidian-links:
+      wikilinks: true
+      markdown_extensions: true
   - roamlinks:
       wikilinks: true
   - glightbox
@@ -39,9 +42,19 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Knowledge:
-      - Ingredients:
-          - Alcohol: ingredients/alcohol.md
-      - Preparations:
-          - Tinctures: recipes/tinctures.md
-      - Plants:
-          - Skirret: plants/skirret.md
+      - Animal Husbandry: 
+      - Cookery:
+          - Confections: confections_index.md
+          - Drinks: drinks_index.md
+          - Fats: fats_index.md
+          - Foods: foods_index.md
+          - Ingredients: ingredients_index.md
+          - Preservation Techniques: preservation_techniques_index.md
+          - Preserved Foods: preserved_foods_index.md
+          - Utensils: utensil_index.md
+      - Medicines: medicines_index.md
+      - Plants: plants_foraging.md
+      - Tinctures: tinctures_index.md
+      - Tools: tools_index.md
+      - Trees: trees_index.md
+

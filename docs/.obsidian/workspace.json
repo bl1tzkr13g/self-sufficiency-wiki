@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plants-foraging.md",
+                "file": "cookery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plants-foraging"
+              "title": "cookery"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plants-foraging.md",
+                "file": "cookery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for plants-foraging"
+              "title": "Backlinks for cookery"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plants-foraging.md",
+                "file": "cookery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from plants-foraging"
+              "title": "Outgoing links from cookery"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plants-foraging.md",
+                "file": "cookery.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of plants-foraging"
+              "title": "Outline of cookery"
             }
           }
         ]
@@ -172,11 +172,18 @@
   "active": "bddf8c661a855958",
   "lastOpenFiles": [
     "index.md",
+    "tools_index.md",
+    "tinctures_index.md",
+    "plants_foraging.md",
+    "cookery/preservation.md",
+    "cookery/preservation_techniques_index.md",
+    "cookery/preserved_foods_index.md",
+    "cookery/utensil_index.md",
+    "cookery/drinks_index.md",
+    "cookery/confections_index.md",
     "plants-and-foraging/barley.md",
     "plants-and-foraging/Untitled.md",
-    "cookery/preserved-foods-index.md",
     "plants-and-foraging/winter-squash.md",
-    "plants-foraging.md",
     "cookery/foods/barley_flatbread.md",
     "cookery/foods/spotted_dick.md",
     "cookery/foods/hot_ water_cornbread.md",
@@ -185,7 +192,6 @@
     "cookery/preservation-techniques/hanging-crops.md",
     "cookery/syrups/spruce-tip-syrup-&-sugar.md",
     "cookery/syrups/evergreen-syrup-tonics.md",
-    "cookery/confections-index.md",
     "cookery/foods-index.md",
     "trees/evergreens/black-spruce-tree.md",
     "trees/evergreens/images/blackspruce3.jpg",
@@ -199,12 +205,6 @@
     "trees/evergreens/images/balsamfir5.jpg",
     "trees/moringa-tree.md",
     "trees/mesquite-tree.md",
-    "trees/evergreens/yew.md",
-    "trees/evergreens/spruce.md",
-    "trees/evergreens/ponderosa.md",
-    "trees/evergreens/norfolk-island-pine.md",
-    "trees/evergreens/loblolly-pine.md",
-    "trees/evergreens/evergreens-index.md",
     "cookery/drinks/tonics/images",
     "cookery/drinks/tonics",
     "trees/evergreens/images/yew.jpg",

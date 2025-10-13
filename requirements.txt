@@ -1,5 +1,6 @@
 mkdocs-material
 mkdocs-glightbox
+mkdocs-obsidian-links-plugin
 mkdocs-roamlinks-plugin
 mkdocs-awesome-pages-plugin
 mkdocs-print-site-plugin

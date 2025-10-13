@@ -49,7 +49,7 @@ High in vitamin C, glucosinolates.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-foraging.md)  
+- [Foraged & Wild Plants](plants_foraging.md)  
 
 ---
 

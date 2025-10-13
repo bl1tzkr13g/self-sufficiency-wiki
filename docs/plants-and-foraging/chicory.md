@@ -52,7 +52,7 @@ Contains inulin (prebiotic fiber), vitamins A, C, and K.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-foraging.md)  
+- [Foraged & Wild Plants](plants_foraging.md)  
 
 ---
 

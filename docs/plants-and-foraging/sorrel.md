@@ -52,7 +52,7 @@ Rich in vitamin C, iron, and potassium.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-foraging.md)  
+- [Foraged & Wild Plants](plants_foraging.md)  
 - [Stinging Nettle Soup](stinging-nettle-soup.md)  
 
 ---

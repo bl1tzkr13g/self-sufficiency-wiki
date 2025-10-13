@@ -50,7 +50,7 @@ Rich in vitamin C and aromatic oils.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-foraging.md)  
+- [Foraged & Wild Plants](plants_foraging.md)  
 
 ---
 

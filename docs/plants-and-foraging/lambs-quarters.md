@@ -49,7 +49,7 @@ High in vitamins A, C, calcium, and protein.
 
 ## Cross References  
 
-- [Foraged & Wild Plants](plants-foraging.md)  
+- [Foraged & Wild Plants](plants_foraging.md)  
 
 ---
 

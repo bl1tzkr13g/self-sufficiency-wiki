@@ -114,4 +114,4 @@ Barley is one of the world’s oldest cultivated grains, grown for food, animal 
 - [Barley Broth](barley_broth.md)  
 - [Barley Water](../cookery/drinks/barley-water.md)  
 - [Barley Sugar](barley-sugar.md)  
-- [Foraged & Wild Plants Index](plants-foraging.md)  
+- [Foraged & Wild Plants Index](plants_foraging.md)  
