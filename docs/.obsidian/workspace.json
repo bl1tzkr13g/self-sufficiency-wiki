@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2fc8f97eb10d9b01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cookery/preserved-foods-index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "preserved-foods-index"
-            }
-          },
-          {
             "id": "bddf8c661a855958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookery/foods/barley_flatbread.md",
+                "file": "plants-and-foraging/barley.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "barley_flatbread"
+              "title": "barley"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 303.5
   },
   "right": {
     "id": "c2d2a85406d247c1",
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookery/foods/barley_flatbread.md",
+                "file": "plants-and-foraging/barley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for barley_flatbread"
+              "title": "Backlinks for barley"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cookery/foods/barley_flatbread.md",
+                "file": "plants-and-foraging/barley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from barley_flatbread"
+              "title": "Outgoing links from barley"
             }
           },
           {
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookery/foods/barley_flatbread.md",
+                "file": "plants-and-foraging/barley.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of barley_flatbread"
+              "title": "Outline of barley"
             }
           }
         ]
@@ -186,10 +171,15 @@
   },
   "active": "bddf8c661a855958",
   "lastOpenFiles": [
+    "plants-and-foraging/Untitled.md",
+    "plants-and-foraging/barley.md",
+    "cookery/preserved-foods-index.md",
+    "plants-and-foraging/winter-squash.md",
+    "plants-foraging.md",
+    "cookery/foods/barley_flatbread.md",
     "cookery/foods/spotted_dick.md",
     "cookery/foods/hot_ water_cornbread.md",
     "cookery/foods/barley_soup.md",
-    "cookery/foods/barley_flatbread.md",
     "cookery/foods/barley_broth.md",
     "cookery/preservation-techniques/hanging-crops.md",
     "cookery/syrups/spruce-tip-syrup-&-sugar.md",
@@ -215,11 +205,6 @@
     "trees/evergreens/loblolly-pine.md",
     "trees/evergreens/evergreens-index.md",
     "trees/evergreens/eastern-white-pine.md",
-    "trees/evergreens/douglas-fir.md",
-    "animal-husbandry/squab-towers.md",
-    "cookery/drinks/barley-water.md",
-    "cookery/drinks/black-currant-cordial.md",
-    "cookery/drinks/switchell.md",
     "cookery/drinks/tonics/images",
     "cookery/drinks/tonics",
     "trees/evergreens/images/yew.jpg",

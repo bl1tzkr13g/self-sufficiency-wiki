@@ -1,7 +1,7 @@
-site_name: Survival Wiki
-site_description: Practical, printable survival knowledge with clean cross-links.
+site_name: Self-sufficiency Wiki
+site_description: Practical, printable sufficiency knowledge with clean cross-links.
 site_url: https://example.org
-repo_url: https://github.com/yourname/survival-wiki
+repo_url: https://github.com/bl1tzkr13g/self-sufficiency-wiki
 theme:
   name: material
   features:
