@@ -22,7 +22,6 @@ plugins:
   - roamlinks:
       wikilinks: true
   - glightbox
-  - mermaid2
   - print-site:
       add_to_navigation: true
       print_page_title: "Print whole site"
