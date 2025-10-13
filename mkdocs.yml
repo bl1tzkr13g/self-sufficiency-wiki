@@ -42,7 +42,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Knowledge:
-      - Animal Husbandry: 
+      - Animal Husbandry: animal_husbandry_index.md
       - Cookery:
           - Confections: confections_index.md
           - Drinks: drinks_index.md
