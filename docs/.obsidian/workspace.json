@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cookery.md",
+                "file": "trees/dryland_fruit_trees.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cookery"
+              "title": "dryland_fruit_trees"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cookery.md",
+                "file": "trees/dryland_fruit_trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cookery"
+              "title": "Backlinks for dryland_fruit_trees"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cookery.md",
+                "file": "trees/dryland_fruit_trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cookery"
+              "title": "Outgoing links from dryland_fruit_trees"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookery.md",
+                "file": "trees/dryland_fruit_trees.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cookery"
+              "title": "Outline of dryland_fruit_trees"
             }
           }
         ]
@@ -171,40 +171,42 @@
   },
   "active": "bddf8c661a855958",
   "lastOpenFiles": [
-    "index.md",
-    "tools_index.md",
-    "tinctures_index.md",
+    "plants-and-foraging/drought_tolerant_edible_plants.md",
+    "trees/dryland_fruit_trees.md",
+    "trees/carob.md",
+    "trees/olive.md",
+    "trees/fig.md",
+    "trees/pomegranate.md",
+    "plants-and-foraging/sorghum.md",
+    "plants-and-foraging/millet.md",
+    "plants-and-foraging/tepary_bean.md",
+    "trees/jujube.md",
+    "plants-and-foraging/prickly-pear.md",
+    "plants-and-foraging/aloe_vera.md",
+    "plants-and-foraging/purslane.md",
+    "plants-and-foraging/elephant_bush.md",
+    "plants-and-foraging/cactus_fruits.md",
+    "plants-and-foraging/agave.md",
+    "plants-and-foraging/sedum_stonecrop.md",
+    "plants-and-foraging/sour_fig.md",
+    "plants-and-foraging/ice_plants.md",
+    "plants-and-foraging/sea_beans.md",
+    "cookery.md",
+    "apothecary_index.md",
     "plants_foraging.md",
-    "cookery/preservation.md",
-    "cookery/preservation_techniques_index.md",
-    "cookery/preserved_foods_index.md",
-    "cookery/utensil_index.md",
-    "cookery/drinks_index.md",
-    "cookery/confections_index.md",
-    "plants-and-foraging/barley.md",
-    "plants-and-foraging/Untitled.md",
-    "plants-and-foraging/winter-squash.md",
-    "cookery/foods/barley_flatbread.md",
-    "cookery/foods/spotted_dick.md",
-    "cookery/foods/hot_ water_cornbread.md",
-    "cookery/foods/barley_soup.md",
-    "cookery/foods/barley_broth.md",
-    "cookery/preservation-techniques/hanging-crops.md",
-    "cookery/syrups/spruce-tip-syrup-&-sugar.md",
-    "cookery/syrups/evergreen-syrup-tonics.md",
-    "cookery/foods-index.md",
-    "trees/evergreens/black-spruce-tree.md",
+    "trees_index.md",
+    "plants-and-foraging/Bleeding Amaranthus.md",
+    "apothecary/remedies",
+    "apothecary",
+    "index.md",
     "trees/evergreens/images/blackspruce3.jpg",
     "trees/evergreens/images/blackspruce2.jpg",
     "trees/evergreens/images/blackspruce1.jpg",
-    "trees/evergreens/balsam-fir.md",
     "trees/evergreens/images/balsamfir4.jpg",
     "trees/evergreens/images/balsamfir3.jpg",
     "trees/evergreens/images/balsamfir2.jpg",
     "trees/evergreens/images/balsamfir1.jpg",
     "trees/evergreens/images/balsamfir5.jpg",
-    "trees/moringa-tree.md",
-    "trees/mesquite-tree.md",
     "cookery/drinks/tonics/images",
     "cookery/drinks/tonics",
     "trees/evergreens/images/yew.jpg",
@@ -215,8 +217,6 @@
     "cookery/drinks/sodas/images/pine_needle_soda.jpg",
     "cookery/drinks/ciders/images",
     "cookery/drinks/ciders",
-    "cookery/drinks/sodas/images",
-    "cookery/drinks/sodas",
     "cookery/foods/preserved foods/Untitled.canvas"
   ]
 }

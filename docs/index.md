@@ -25,5 +25,5 @@ like [[alcohol]] and [[tinctures_index]].
 ---
 # [[medicine]]
 ---
-# # [Trees](trees-index.md)
+# # [Trees](trees_index.md)
 ---
